@@ -1,5 +1,5 @@
 # Registro de decisiones — DS-FS-20261120-ykgp
-Inicio: 23/11/2026 13:40 · Fin de la Parte 1: 23/11/2026 14:41 · Fin: 15:25
+Inicio: 23/11/2026 13:40 · Fin de la Parte 1: 23/11/2026 14:41 · Fin: 15:20
 
 
 ## Supuestos
