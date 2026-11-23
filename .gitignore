@@ -1,0 +1,10 @@
+.env
+node_modules
+dist
+__pycache__
+.pytest_cache
+*.pyc
+
+# Private notes and the candidate brief are never published
+privado/
+enunciado-candidato.md
